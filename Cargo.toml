@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+    "fairycore",
+	"fairycore-core",
+	"fairycore-proc-macro"
+]
+
+[workspace.package]
+version = "0.1.0"
+authors = ["hydrogenmacro <hydrogenmacro@gmail.com>"]
+edition = "2021"
