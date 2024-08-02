@@ -1,0 +1,7 @@
+[package]
+name = "fairycore-proc-macro"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+
+[dependencies]
