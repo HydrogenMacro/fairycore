@@ -10,3 +10,4 @@ members = [
 version = "0.1.0"
 authors = ["hydrogenmacro <hydrogenmacro@gmail.com>"]
 edition = "2021"
+repository = "https://github.com/HydrogenMacro/fairycore"
